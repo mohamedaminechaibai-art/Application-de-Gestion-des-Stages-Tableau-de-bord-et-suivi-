@@ -1,4 +1,4 @@
-<?ph
+<?php
 require_once __DIR__ . '/bootstrap.php';
 
 // ---------- Suppression d'un stage (POST + CSRF + transaction) ----------
